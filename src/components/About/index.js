@@ -1,4 +1,6 @@
 import React from 'react';
+import Biopic from '../../assets/biopic.png';
+
 
 function About() {
     return(
@@ -8,7 +10,7 @@ function About() {
       
       <div className="row justify-content-center">
         <div className="col-10" id="about-section">
-            <img class="mb-5" src="https://glgberat.github.io/professional-portfolio-react/src/assets/biopic.jpg" alt="Mehmet Berat Huyuk"/>
+            <img class="mb-5" src={Biopic} alt="Mehmet Berat Huyuk"/>
         <p>
            Born and raised in Turkey, living in New York since 2008; I am a Software Engineer/Developer with a degree of BS, Computer Engineering.
         </p>

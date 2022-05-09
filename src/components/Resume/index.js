@@ -1,4 +1,5 @@
-import React from 'react'; 
+import React from 'react';
+import Resumepdf from '../../assets/Resume_MehmetBHuyuk.pdf'; 
 
 function Resume() {
 
@@ -8,7 +9,7 @@ return(
         <hr></hr>
 
         <div class="justify-content-center mt-5">
-        <p>Download My<a href="https://glgberat.github.io/professional-portfolio-react/assets/Resume_MehmetBHuyuk.pdf" class="link">Resume</a>
+        <p>Download My<a href={Resumepdf} class="link">Resume</a>
                 <br></br>
         </p>
             <div id="front-back">
