@@ -8,7 +8,7 @@ return(
         <hr></hr>
 
         <div class="justify-content-center mt-5">
-        <p>Download My<a href="https://github.com/glgberat/professional-portfolio-react/assets/Resume_MehmetBHuyuk.pdf" class="link">Resume</a>
+        <p>Download My<a href="https://glgberat.github.io/professional-portfolio-react/assets/Resume_MehmetBHuyuk.pdf" class="link">Resume</a>
                 <br></br>
         </p>
             <div id="front-back">
