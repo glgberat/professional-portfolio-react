@@ -28,7 +28,7 @@ Run the following commands at the root of your project if you would like to use 
 
 
 ## Screenshots
-![professional-portfolio-react](https://glgberat.github.io/professional-portfolio-react/src/assets/screenshot1.png)
+![professional-portfolio-react](./src/assets/screenshot1.png)
 
 
 
